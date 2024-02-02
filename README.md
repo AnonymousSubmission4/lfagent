@@ -145,6 +145,3 @@ sudo docker compose stop
 - `--agent=sdpg` for Vanilla Policy Gradient (VPG)
 - `--agent=ddpg` for Deep Deterministic Policy Gradient (DDPG)
 - `--agent=reinforce` for REINFORCE
-- `--agent=mpc3` for Model Predictive Control with prediction horizon 3
-- `--agent=mpc7` for Model Predictive Control with prediction horizon 7
-- `--agent=mpc11` for Model Predictive Control with prediction horizon 11
