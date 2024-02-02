@@ -1,0 +1,6 @@
+defaults:
+  - optimizer_config: symbolic
+
+_target_: srccode.policy.ThreeWheeledRobotDisassembledCLFPolicy
+
+pipeline_gain: 10

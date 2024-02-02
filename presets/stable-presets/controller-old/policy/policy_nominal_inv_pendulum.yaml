@@ -1,0 +1,3 @@
+_target_: srccode.policy.InvertedPendulumStabilizingPolicy
+
+pipeline_gain: 20

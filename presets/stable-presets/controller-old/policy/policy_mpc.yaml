@@ -1,0 +1,5 @@
+defaults:
+  - policy_rl
+
+algorithm: mpc
+prediction_horizon: 3

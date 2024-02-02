@@ -1,0 +1,3 @@
+defaults:
+  - override rehydra/job_logging: colorlog
+  - override rehydra/rehydra_logging: colorlog
